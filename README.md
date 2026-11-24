@@ -20,12 +20,12 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│  System Info                                    [v2.0.0]     │
+│  System Info                                    [v3.0.0]     │
 ├─────────────────────────────────────────────────────────────┤
 │  OS       ::  Windows 11 Pro  │  Linux  │  macOS             │
-│  Role     ::  .NET Engineer  │  Full-Stack Dev             │
-│  Focus    ::  AI Tools, DevOps, Web Applications            │
-│  Status   ::  🚀 Building something cool                   │
+│  Role     ::  .NET Engineer  │  AI Automation Integrator     │
+│  Focus    ::  Legacy Integration, Data Automation, AI Apps  │
+│  Status   ::  🚀 Building XWH AI                            │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -42,30 +42,25 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🖥️ multi-publisher</h3>
-      <p align="center">Markdown → 多平台 CLI 发布工具</p>
+      <h3 align="center">🚀 XWH AI Automation Showcase</h3>
+      <p align="center">Bilingual, synthetic-data demos for enterprise integration, data automation, and AI support.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Playwright-45BA8C?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <p align="center">
-        <a href="https://github.com/xwh5/multi-publisher">🔗 View Repo</a>
-      </p>
-      <p align="center"><i>支持微信公众号/知乎/掘金等 20+ 平台，12 套渲染主题</i></p>
+      <p align="center"><a href="https://github.com/xwh5/ai-automation-showcase">🔗 View Repo</a></p>
+      <p align="center"><i>Legacy order bridge · Evidence-first price console · AI support knowledge base</i></p>
     </td>
     <td width="50%">
-      <h3 align="center">🧠 last30days-skill</h3>
-      <p align="center">AI agent skill for researching any topic</p>
+      <h3 align="center">🧩 opencode-tab-status</h3>
+      <p align="center">Zero-dependency OpenCode terminal status plugin.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Claude-Code-FF6B6B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Web-Scrape-9B59B6?style=flat-square&logo=internet" />
-        <img src="https://img.shields.io/badge/AI-Research-3498DB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MIT-green?style=flat-square" />
       </p>
-      <p align="center">
-        <a href="https://github.com/xwh5/last30days-skill">🔗 View Repo</a>
-      </p>
-      <p align="center"><i>从 Reddit/X/YouTube/HN/Polymarket 聚合真实讨论</i></p>
+      <p align="center"><a href="https://github.com/xwh5/opencode-tab-status">🔗 View Repo</a></p>
+      <p align="center"><i>Small, complete, tested utility.</i></p>
     </td>
   </tr>
 </table>
